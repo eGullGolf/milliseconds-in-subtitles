@@ -36,7 +36,7 @@ of a button.
 
 While the subtitles update more frequently, I found, while using VLC
 on Mac OS X, that they have a tendency to disappear on pause,
-and are not updated when moving to next frame using shortcut key `E`.
+and are not updated when moving to next frame using the shortcut key `E`.
 
 In this case, the extension might fill the gap. The timing displayed
 by subtitles and the extension is consistent, with differences lower
